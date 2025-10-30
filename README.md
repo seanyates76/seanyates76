@@ -39,7 +39,7 @@ Driven by curiosity, defined by clarity. I like to turn complex systems into app
 ### 📫 Connect
 
 I’m always open to thoughtful collaboration or conversation: <br>
-**LinkedIn:** [linkedin.com/in/sean-yates-x3945x](https://linkedin.com/in/sean-yates-x3945x)
+**LinkedIn:** [linkedin.com/in/sean-yates-x3945x](https://linkedin.com/in/sean-yates-x3945x) <br>
 **Email:** [ez.quizapp@gmail.com](mailto:ez.quizapp@gmail.com)
 
 ---
