@@ -15,12 +15,12 @@ Vanilla **JavaScript**, **HTML/CSS**, **Netlify Functions**, and growing experie
 I value precision, accessibility, and maintainability, guided by frameworks that reinforce security and clarity.
 
 ## 🧩 Projects
+| Project | Focus | Link |
+|----------|-------|------|
+| **EZ-Quiz App** | AI-powered quiz generation with transparent design | [ez-quiz.app](https://ez-quiz.app) |
+| **Windows Recovery Upgrade Case Study** | Real-world system rebuild and diagnostic analysis | [github.com/seanyates76/windows-recovery-upgrade-case-study](https://github.com/seanyates76/windows-recovery-upgrade-case-study) |
+| **Kalipod (WIP)** | Containerized security lab for hands-on learning | Coming soon |
 
-| Project           | Focus                                              | Link                               |
-| ----------------- | -------------------------------------------------- | ---------------------------------- |
-| **EZ-Quiz App**   | AI-powered quiz generation with transparent design | [ez-quiz.app](https://ez-quiz.app) |
-| **Kalipod (WIP)** | Containerized security lab for hands-on learning   | Coming soon                        |
-| **Cyber Diary**   | A living record of my cybersecurity journey        | Private dev repo                   |
 
 ## 🌱 What I’m exploring
 
