@@ -1,47 +1,46 @@
-# Hey, I’m Sean 👋🏾
+# Sean Yates
 
-I build tools that make learning and creation transparent, accessible, and a little bit smarter every time they run.
-I’m currently maintaining **[EZ-Quiz](https://ez-quiz.app)** — an open, AI-assisted quiz generator built for clarity and trust.
+I build tools that make learning and creation more transparent and reliable.
 
-## 🧭 What drives me
+Currently maintaining **[EZ-Quiz](https://ez-quiz.app)** — an open AI-assisted quiz generator focused on clarity, reproducibility, and trust.
 
-* **Human + Machine Collaboration:** I design workflows that make AI a genuine creative partner.
-* **Clarity before complexity:** I build projects that teach as much as they build.
-* **Sustainable focus:** Steady progress over frantic output — development as a long game.
+## Approach
 
-## ⚙️ What I work with
+**Human–AI collaboration**  
+I design workflows where AI accelerates development but remains within a human review loop.
 
-Vanilla **JavaScript**, **HTML/CSS**, **Netlify Functions**, and growing experience with **AI-assisted development**.
-I value precision, accessibility, and maintainability, guided by frameworks that reinforce security and clarity.
+**Clarity before complexity**  
+Projects should explain themselves. I value readable systems over clever ones.
 
-## 🧩 Projects
+**Steady progress**  
+Reliable iteration beats frantic output. Development is a long game.
+
+## Tools and Stack
+
+JavaScript • HTML • CSS • Netlify Functions  
+AI-assisted development workflows
+
+I focus on precision, accessibility, and maintainability, with an emphasis on safe and understandable systems.
+
+## Projects
+
 | Project | Focus | Link |
-|----------|-------|------|
-| **EZ-Quiz App** | AI-powered quiz generation with transparent design | [ez-quiz.app](https://ez-quiz.app) |
-| **Windows Recovery Upgrade Case Study** | Real-world system rebuild and diagnostic analysis | [github.com/seanyates76/windows-recovery-upgrade-case-study](https://github.com/seanyates76/windows-recovery-upgrade-case-study) |
+|--------|------|------|
+| **EZ-Quiz** | AI-assisted quiz generation with transparent design | https://ez-quiz.app |
+| **Windows Recovery Upgrade Case Study** | Real-world Windows system rebuild and diagnostic documentation | https://github.com/seanyates76/windows-recovery-upgrade-case-study |
 | **Kalipod (WIP)** | Containerized security lab for hands-on learning | Coming soon |
 
+## Areas of Exploration
 
-## 🌱 What I’m exploring
+- Improving AI prompt reliability and reproducibility  
+- Ethical automation and privacy-first design  
+- Network security fundamentals and defensive systems
 
-* Improving AI prompt reliability and reproducibility
-* Ethical automation & privacy-first design
-* Advanced network security fundamentals
+## About
 
----
+Driven by curiosity and clarity. I like to turn complex systems into approachable tools people can actually understand. Whether refining a UI, studying network security, or experimenting with generative models, the goal stays the same: make the process as elegant as the result.
 
-### 📜 About
+## Connect
 
-Driven by curiosity, defined by clarity. I like to turn complex systems into approachable tools that anyone can understand. Whether I’m refining a UI, studying network security, or experimenting with generative models, my goal is always the same: make the process as elegant as the result.
-
----
-
-### 📫 Connect
-
-I’m always open to thoughtful collaboration or conversation: <br>
-**LinkedIn:** [linkedin.com/in/sean-yates-x3945x](https://linkedin.com/in/sean-yates-x3945x) <br>
-**Email:** [ez.quizapp@gmail.com](mailto:ez.quizapp@gmail.com)
-
----
-
-<p align="center"><strong><em>Clarity endures.</em></strong></p>
+**LinkedIn:** https://linkedin.com/in/sean-yates-x3945x  
+**Email:** ez.quizapp@gmail.com
