@@ -42,5 +42,5 @@ Open to relocation to **Austin, TX** for the right opportunity.
 
 ## Connect
 
-- LinkedIn:
-- Email:
+- LinkedIn: https://www.linkedin.com/in/sean-yates-x3945x/
+- Email: ez.quizapp@gmail.com
